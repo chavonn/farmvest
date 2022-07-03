@@ -1,0 +1,25 @@
+{
+  "name": "farmvest",
+  "version": "1.0.0",
+  "description": "agricultural investment platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chavonn/farmvest.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "agricultural",
+    "farmvest"
+  ],
+  "author": "chavonn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chavonn/farmvest/issues"
+  },
+  "homepage": "https://github.com/chavonn/farmvest#readme"
+}
